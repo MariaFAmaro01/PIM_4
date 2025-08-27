@@ -24,7 +24,7 @@ Desenvolver um sistema de suporte técnico que atenda as solicitações internas
 | Sprint   | Período       | Documentação        |
 |----------|--------------|---------------------|
 | 📌 SPRINT 1 | 20/08 | Elaboração do Github pessoal e do repositório do projeto. |
-| 📌 SPRINT 2 | 27/08 | Configuração do ambiente de desenvolvimento. |
+| 📌 SPRINT 2 | 27/08 | |
 | 📌 SPRINT 3 | 03/09 | Início da codificaçação - módulo da gestão de usuários. |
 | 📌 SPRINT 4 | 10/09 | Desenvolvimento do módulo de chamados. |
 | 📌 SPRINT 5 | 17/09 | Desenvolvimento do módulo de suporte técnico. |
