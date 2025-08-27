@@ -24,14 +24,14 @@ Desenvolver um sistema de suporte técnico que atenda as solicitações internas
 | Sprint   | Período       | Documentação        |
 |----------|--------------|---------------------|
 | 📌 SPRINT 1 | 20/08 | Elaboração do Github pessoal e do repositório do projeto. |
-| 📌 SPRINT 2 | 27/08 | |
-| 📌 SPRINT 3 | 03/09 | Início da codificaçação - módulo da gestão de usuários. |
-| 📌 SPRINT 4 | 10/09 | Desenvolvimento do módulo de chamados. |
-| 📌 SPRINT 5 | 17/09 | Desenvolvimento do módulo de suporte técnico. |
-| 📌 SPRINT 6 | 24/09 | Integração da funcionalidade de IA. |
-| 📌 SPRINT 7 | 01/10 | Teste unitários e de integração. |
-| 📌 SPRINT 8 | 08/10 | Correção de bugs e ajustes de interface. |
-| 📌 SPRINT 9 | 15/10 | Documentação e preparação para entrega. |
+| 📌 SPRINT 2 | | |
+| 📌 SPRINT 3 | | |
+| 📌 SPRINT 4 | | |
+| 📌 SPRINT 5 | | |
+| 📌 SPRINT 6 | | |
+| 📌 SPRINT 7 | | |
+| 📌 SPRINT 8 | | |
+| 📌 SPRINT 9 | | |
 | 📌 SPRINT 10 | 22/10| Entrega prevista do projeto 4. |
 
 ## 💻 Tecnologias
