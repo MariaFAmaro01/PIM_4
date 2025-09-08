@@ -13,31 +13,64 @@
 
 </div>
 
-> Status do Projeto: Em processo 🟡
->
-> Relatório de Testes: [PDF](link) 📄 **Em desenvolvimento**
->
-> Pasta de Documentação: [Link](link) 🔗 **Em desenvolvimento**
->
-> Vídeo do Projeto: [Youtube](link) 🎥 **Em desenvolvimento**
+---
 
-## 📌 Objetivo do Projeto
-Desenvolver um sistema de suporte técnico que atenda as solicitações internas. Com um sistema integrado no qual os colaboradores possam registrar suas solicitações e a IA possa sugerir soluções automáticas ou encaminhar ao técnico adequado com base no histórico de chamados e complexidade do sistema.
+## 🎯 Desafio do Projeto
 
-## 📅 Cronograma de Sprints
+O desafio consiste em desenvolver um **Sistema de Abertura de Chamados** nas plataformas **desktop, mobile e web**, integrado com **Inteligência Artificial gratuita**.  O sistema deve permitir que os usuários abram, acompanhem e encerrem chamados de forma simples, além de oferecer suporte automatizado através de IA.  
 
-| Sprint   | Período       | Documentação        |
-|----------|--------------|---------------------|
-| 📌 SPRINT 1 | 20/08 | Elaboração do Github pessoal e do repositório do projeto. |
-| 📌 SPRINT 2 | | |
-| 📌 SPRINT 3 | | |
-| 📌 SPRINT 4 | | |
-| 📌 SPRINT 5 | | |
-| 📌 SPRINT 6 | | |
-| 📌 SPRINT 7 | | |
-| 📌 SPRINT 8 | | |
-| 📌 SPRINT 9 | | |
-| 📌 SPRINT 10 | 22/10| Entrega prevista do projeto 4. |
+Esse projeto busca **otimizar o atendimento interno** de empresas, **reduzir tempo de resposta** e **centralizar a comunicação** entre equipe e cliente.
+
+---
+
+## 🏃‍ DoR - Definition of Ready
+
+Uma história ou requisito estará **pronto para ser desenvolvido** quando atender aos seguintes critérios:
+
+- [ ] Requisito/documentação clara e compreensível  
+- [ ] Critérios de aceitação bem definidos  
+- [ ] Estimativa de esforço realizada pela equipe  
+- [ ] Dependências identificadas e tratadas  
+- [ ] Protótipo ou wireframe disponível 
+- [ ] Priorizado no backlog do produto  
+
+## 🏆 DoD - Definition of Done
+- [ ]
+- [ ] 
+
+---
+
+## 📋 Backlog do Produto
+
+| Rank | Prioridade | User Story                                                                                     | Sprint | Requisito do Cliente | Status |
+|------|------------|------------------------------------------------------------------------------------------------|--------|-----------------------|--------|
+| 1    | Alta       | Como usuário, quero abrir um chamado no sistema para reportar problemas | 1      | R01                   | ✅      |
+| 2    | Alta       | Como usuário, quero acompanhar o status dos meus chamados                                       | 1      | R02                   | ✅      |
+| 3    | Alta       | Como atendente, quero visualizar e gerenciar todos os chamados abertos                          | 2      | R03                   | 🚧     |
+| 4    | Média      | Como usuário, quero receber notificações sobre atualizações do chamado                          | 2      | R04                   | ⏳     |
+| 5    | Baixa      | Como usuário, quero interagir com um assistente de IA para obter suporte automatizado           | 3      | R05                   | ⏳     |
+
+---
+
+Semana               | 01/09 | 08/09 | 15/09 | 22/09 | 29/09 | 06/10 | 13/10 | 20/10 | 27/10 | 03/11 | 10/11 | 17/11 | 24/11 | 30/11
+-------------------- |-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------
+Sprint 1 - Chamados  | 🟩🟩🟩 ✅ [📄 Doc](docs/Sprint-1-DoR-DoD.md) [🎥 Vídeo](https://youtube.com/...)
+Sprint 2 - Dashboard |       🟨🟨🟨 🚧 [📄 Doc](docs/Sprint-2-DoR-DoD.md) [🎥 Vídeo](https://youtube.com/...)
+Sprint 3 - IA        |               ⬜⬜⬜ ⏳ [📄 Doc](docs/Sprint-3-DoR-DoD.md) [🎥 Vídeo](https://youtube.com/...)
+Sprint 4 - Testes    |                       ⬜⬜ ⏳ [📄 Doc](docs/Sprint-4-DoR-DoD.md) [🎥 Vídeo](https://youtube.com/...)
+Sprint 5 - Deploy    |                           ⬜⬜ ⏳ [📄 Doc](docs/Sprint-5-DoR-DoD.md) [🎥 Vídeo](https://youtube.com/...)
+
+
+
+
+---
+
+## Sprints
+| Sprint  | Período             | Resumo das Entregas                                                                 | Documentação                                  | Vídeo YouTube                     |
+|---------|---------------------|-------------------------------------------------------------------------------------|-----------------------------------------------|-----------------------------------|
+| Sprint 1 | 01/09/2025 - 21/09/2025 | Funcionalidades de abertura de chamados e acompanhamento do status pelo usuário       | [📄 Documentação Sprint 1](docs/Sprint-1-DoR-DoD.md) | [🎥 Vídeo Sprint 1](https://youtube.com/...) |
+| Sprint 2 | 22/09/2025 - 12/10/2025 | Dashboard para atendente gerenciar chamados e envio de notificações automáticas       | [📄 Documentação Sprint 2](docs/Sprint-2-DoR-DoD.md) | [🎥 Vídeo Sprint 2](https://youtube.com/...) |
+| Sprint 3 | 13/10/2025 - 02/11/2025 | Implementação do assistente de IA para suporte automatizado ao usuário               | [📄 Documentação Sprint 3](docs/Sprint-3-DoR-DoD.md) | [🎥 Vídeo Sprint 3](https://youtube.com/...) |
 
 ## 💻 Tecnologias
 
@@ -46,7 +79,14 @@ Desenvolver um sistema de suporte técnico que atenda as solicitações internas
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📖 Manual de Instalação
-> Status: Em processo 🟡
+
+
+## estrutura do projeto
+
+## Como executar, usar e testar o projeto
+
+## link para a pasta da documentação 
+
 
 ## 👥 Equipe
 
