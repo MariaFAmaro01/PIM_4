@@ -1,5 +1,11 @@
-# PIM 4º
-![Logo da Empresa](https://github.com/user-attachments/assets/b7a4ce2d-20f7-4a12-8cb4-530f36fb1950)
+# PIM 4º SEMESTRE
+<h1 align="center"> <b>SmartDesk: Sistema de Abertura de Chamados</b></h1>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b7a4ce2d-20f7-4a12-8cb4-530f36fb1950" width="200" alt="Logo do Projeto"><br><br>
+  <i>Web, Desk e Mobile com Integração de IA</i><br>
+  <sub>Status do Projeto: 🚧 Em Desenvolvimento</sub>
+</p>
 
 <div align="center">
 
