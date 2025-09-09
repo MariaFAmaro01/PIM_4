@@ -78,8 +78,8 @@ A DoD define os critérios que uma User Story ou tarefa **precisa cumprir para s
 | 3      | 01/10 - 15/10    | Funcionalidade de edição e atualização de chamados | [Vídeo Sprint 3](#) | [Doc Sprint 3](#) |
 | 4      | 16/10 - 31/10    | Relatórios básicos e exportação em PDF/Excel  | [Vídeo Sprint 4](#) | [Doc Sprint 4](#) |
 | 5      | 01/11 - 15/11    | Integração com IA e sugestões automáticas     | [Vídeo Sprint 5](#) | [Doc Sprint 5](#) |
-
----
+ 
+<br>
 
 ## 💻 Tecnologias Utilizadas  
 
@@ -100,7 +100,7 @@ A DoD define os critérios que uma User Story ou tarefa **precisa cumprir para s
 ├── /tests/         # Testes automatizados  
 └── README.md       # Documentação principal  
 
----
+<br>
 
 ## 🛠 Como executar, usar e testar o projeto
 Este guia detalha os passos para **configurar e executar o projeto localmente**.
@@ -197,7 +197,8 @@ Toda a documentação do projeto está disponível na pasta [docs](./docs) do re
 
 Você pode acessar diretamente clicando aqui: [Pasta de Documentação](./docs)
 
-***
+<br>
+
 
 ## 👥 Equipe
 
