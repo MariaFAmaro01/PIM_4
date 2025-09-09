@@ -66,9 +66,9 @@ A DoD define os critérios que uma User Story ou tarefa **precisa cumprir para s
 | Sprint | Período       | Evolução (progresso)       | Entrega (Resumo)                  |
 |--------|---------------|----------------------------|----------------------------------|
 | 1      | 01/09 - 15/09 | ███░░░░░░░░ 30%           | Tela de abertura de chamados     |
-| 2      | 16/09 - 30/09 | ░░░░░░░░░░ 10%           | Listagem de chamados             |
+| 2      | 16/09 - 30/09 | █░░░░░░░░░░ 10%           | Listagem de chamados             |
 | 3      | 01/10 - 15/10 | ██░░░░░░░░░ 20%           | Edição de chamados               |
-| 4      | 16/10 - 31/10 | ░░░░░░░░░░ 10%           | Relatórios e exportação          |
+| 4      | 16/10 - 31/10 | █░░░░░░░░░░ 10%           | Relatórios e exportação          |
 | 5      | 01/11 - 15/11 | ██░░░░░░░░░ 20%           | Integração com IA                |
 
 <br>
@@ -188,12 +188,6 @@ dotnet test
 
 ---
 
-### 6. Observações Importantes
-- Certifique-se de que o banco de dados esteja em execução antes de iniciar o projeto.
-- Logs e erros serão exibidos no console para facilitar a depuração.
-- Para dúvidas sobre funcionalidades específicas, consulte a documentação da sprint correspondente.
-
----
 
 <br>
 
