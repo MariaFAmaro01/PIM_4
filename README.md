@@ -1,4 +1,5 @@
 # PIM 4º SEMESTRE
+<br>
 <h1 align="center"> <b>SmartDesk: Sistema de Abertura de Chamados</b></h1>
 
 <p align="center">
@@ -11,7 +12,7 @@
 
 </div>
 
----
+<br>
 
 ## 🎯 Desafio do Projeto
 
