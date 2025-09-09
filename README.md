@@ -188,9 +188,6 @@ dotnet test
 
 ---
 
-
-<br>
-
 ## 📂 Documentação
 
 Toda a documentação do projeto está disponível na pasta [docs](./docs) do repositório.  
