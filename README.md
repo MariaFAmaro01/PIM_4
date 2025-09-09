@@ -44,6 +44,9 @@ A DoD define os critérios que uma User Story ou tarefa **precisa cumprir para s
 - Vídeos de cada etapa de entrega  
 - Testes unitários e de integração realizados  
 - Funcionalidade validada e integrada ao sistema (Frontend, Backend e Mobile)
+
+<br>
+
 ---
 
 ## 📋 Backlog do Produto
