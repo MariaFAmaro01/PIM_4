@@ -47,7 +47,7 @@ A DoD define os critérios que uma User Story ou tarefa **precisa cumprir para s
 
 <br>
 
----
+
 
 ## 📋 Backlog do Produto
 
@@ -91,7 +91,7 @@ A DoD define os critérios que uma User Story ou tarefa **precisa cumprir para s
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white) ![Astah](https://img.shields.io/badge/Astah-3776AB?style=for-the-badge&logo=astah&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-3776AB?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
----
+<br>
 
 ## 🏗️ Estrutura do Projeto
 
@@ -194,6 +194,8 @@ dotnet test
 - Para dúvidas sobre funcionalidades específicas, consulte a documentação da sprint correspondente.
 
 ---
+
+<br>
 
 ## 📂 Documentação
 
