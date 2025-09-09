@@ -69,7 +69,7 @@ A DoD define os critérios que uma User Story ou tarefa **precisa cumprir para s
 
 <br>
 
-## 🏃 Sprints Detalhadas
+## 📆 Sprints Detalhadas
 
 | Sprint | Período da Sprint | Resumo da Sprint                                | Link Vídeo        | Link Documentação   |
 |--------|-----------------|------------------------------------------------|-----------------|------------------|
@@ -89,7 +89,7 @@ A DoD define os critérios que uma User Story ou tarefa **precisa cumprir para s
 
 ---
 
-## Estrutura do Projeto
+## 🏗️ Estrutura do Projeto
 
 /chamados-app  
 │  
