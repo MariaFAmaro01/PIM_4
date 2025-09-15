@@ -1,20 +1,16 @@
-# PIM 4º SEMESTRE
-<br>
-<h1 align="center"> <b>SmartDesk: Sistema de Abertura de Chamados</b></h1>
+## PIM 4º SEMESTRE
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/b7a4ce2d-20f7-4a12-8cb4-530f36fb1950" width="200" alt="Logo do Projeto"><br><br>
-  <i>Web, Desk e Mobile com Integração de IA</i><br>
-  <sub>Status do Projeto: 🚧 Em Desenvolvimento</sub>
-</p>
+### SmartDesk: Sistema de Abertura de Chamados
 
-<div align="center">
 
-</div>
+  <img src="https://github.com/user-attachments/assets/b7a4ce2d-20f7-4a12-8cb4-530f36fb1950" width="200" alt="Logo do Projeto"><br>
+  Web, Desk e Mobile com Integração de IA
+  <br>
+  *Status do Projeto: 🚧 Em Desenvolvimento*
+
 
 <br>
 
-## 📄 Documentação do Projeto
 
 Navegue pelas seções abaixo para conhecer todos os detalhes do projeto.
 
