@@ -24,111 +24,17 @@ Navegue pelas seções abaixo para conhecer todos os detalhes do projeto.
 - 📆 Tabela Descritiva das Sprints: [**Clique aqui**](./docs/Sprints.md) para saber mais das nossas sprints.
 - 💻 Tecnologias Utilizadas: [**Clique aqui**](./docs/Tecnologias_Utilizadas.md) para cohecer as tecnologias do projeto. 
 - 🏗️ Estrutura do Projeto: [**Clique aqui**](./docs/Estrutura_do_projeto.md) para ver a estrutura do projeto.
-- 🛠️ Como executar, usar e testar o projeto: [**Clique aqui**](./docs/HOW_TO_USE.md) para saber como usar nosso projeto. 
-- 👥 Equipe: [**Clique aqui**](./docs/TEAM.md) para conhecer a nossa equipe.
+- 🛠️ Como executar, usar e testar o projeto: [**Clique aqui**](./docs/Como_usar.md) para saber como usar nosso projeto.
+- 📂 Documentação: [**Clique aqui**](./docs/Documentação.md) para acessar a pasta da documentação do projeto. 
+- 👥 Equipe: [**Clique aqui**](./docs/Time.md) para conhecer a nossa equipe.
 
 <br>
 
 <br>
-
-## 🏗️ Estrutura do Projeto
-
-/chamados-app  
-│  
-├── /backend/       # Servidor, APIs e integração com banco de dados  
-├── /frontend/      # Aplicação web  
-├── /mobile/        # Aplicação mobile  
-├── /docs/          # Documentação detalhada  
-├── /tests/         # Testes automatizados  
-└── README.md       # Documentação principal  
-
-<br>
-
-## 🛠 Como executar, usar e testar o projeto
-Este guia detalha os passos para **configurar e executar o projeto localmente**.
-
-### Pré-requisitos
-Antes de iniciar, certifique-se de ter instalado em sua máquina:
-
-- [Git](https://git-scm.com/downloads)  
-- [Visual Studio Code](https://code.visualstudio.com/)  
-- [MySQL](https://dev.mysql.com/downloads/)  
-- [Node.js 16+](https://nodejs.org/) 
-- [.NET 6+](https://dotnet.microsoft.com/en-us/download) 
-
-### 1. Clonar o Repositório
-Para começar, clone o repositório para sua máquina local e navegue até o diretório do projeto:
-```bash
-git clone https://github.com/seu-usuario/seu-projeto.git
-cd seu-projeto
-```
----
-
-### 2. Instalar Dependências
-Dependendo do tipo de projeto, execute os comandos apropriados para instalar as dependências:
-
-#### Projeto Node.js (Frontend)
-```bash
-npm install
-```
-
-#### Projeto C# (Backend)
-```bash
-dotnet restore
-```
-
----
-
-### 3. Configurar Variáveis de Ambiente
-Crie um arquivo `.env` na raiz do projeto e adicione as seguintes variáveis com suas credenciais:
-```
-DB_HOST=localhost
-DB_USER=root
-DB_PASS=senha
-DB_NAME=meu_banco
-API_KEY=xxxxxxxxxxxx
-```
-
----
-
-### 4. Executar o Projeto
-Siga as instruções abaixo para iniciar o backend e o frontend:
-
-#### Backend (C#)
-```bash
-dotnet run --project ./src/Backend
-```
-
-#### Frontend (Node.js / React / Outro)
-```bash
-npm start
-```
-O projeto estará acessível em: [http://localhost:3000](http://localhost:3000)
-
----
-
-### 5. Testar Funcionalidades
-Você pode testar o sistema seguindo estes exemplos:
-
-- Abrir um chamado → Menu Principal → Novo Chamado
-- Consultar NFSe → Digitar número da nota → Consultar
-
-#### Executar Testes Automatizados
-##### Node.js
-```bash
-npm test
-```
-
-##### C# (xUnit ou NUnit)
-```bash
-dotnet test
-```
-
----
 
 ## 📂 Documentação
 
-Toda a documentação do projeto está disponível na pasta [docs](./docs) do repositório.  
+Toda a documentação do projeto está disponível na pasta [documentação](./docs) do repositório.  
 
 Você pode acessar diretamente clicando aqui: [Pasta de Documentação](./docs)
 
