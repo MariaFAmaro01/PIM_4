@@ -22,8 +22,8 @@ Navegue pelas seções abaixo para conhecer todos os detalhes do projeto.
 - 📋 Backlog de Produto: [**Clique aqui**](./docs/Backlog.md) para ver o backlog.
 - 🚀 Cronograma de Evolução do Projeto: [**Clique aqui**](./docs/Cronograma.md) para ver o cronograma.
 - 📆 Tabela Descritiva das Sprints: [**Clique aqui**](./docs/Sprints.md) para saber mais das nossas sprints.
-- 💻 Tecnologias Utilizadas: [**Clique aqui**](./docs/TECHNOLOGIES.md) para cohecer as tecnologias do projeto. 
-- 🏗️ Estrutura do Projeto: [**Clique aqui**](./docs/STRUCTURE.md) para ver a estrutura do projeto.
+- 💻 Tecnologias Utilizadas: [**Clique aqui**](./docs/Tecnologias_Utilizadas.md) para cohecer as tecnologias do projeto. 
+- 🏗️ Estrutura do Projeto: [**Clique aqui**](./docs/Estrutura_do_projeto.md) para ver a estrutura do projeto.
 - 🛠️ Como executar, usar e testar o projeto: [**Clique aqui**](./docs/HOW_TO_USE.md) para saber como usar nosso projeto. 
 - 👥 Equipe: [**Clique aqui**](./docs/TEAM.md) para conhecer a nossa equipe.
 
