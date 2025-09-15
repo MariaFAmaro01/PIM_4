@@ -12,97 +12,22 @@
 
 </div>
 
+<br>
+
 ## 📄 Documentação do Projeto
 
 Navegue pelas seções abaixo para conhecer todos os detalhes do projeto.
 
-- [**🎯 Descrição do Desafio**](./docs/Desafio_do_Projeto.md)
-- [**📋 Backlog de Produto**](./docs/Backlog.md)
-- [**🚀 Cronograma de Evolução do Projeto**](./docs/Cronograma.md)
-- [**📆 Tabela Descritiva das Sprints**](./docs/SPRINTS.md)
-- [**💻 Tecnologias Utilizadas**](./docs/TECHNOLOGIES.md)
-- [**🏗️ Estrutura do Projeto**](./docs/STRUCTURE.md)
-- [**🛠️ Como executar, usar e testar o projeto**](./docs/HOW_TO_USE.md)
-- [**👥 Equipe**](./docs/TEAM.md)
+- 🎯 Descrição do Desafio: [**Clique aqui**](./docs/Desafio_do_Projeto.md) para ver com detalhes.
+- 📋 Backlog de Produto: [**Clique aqui**](./docs/Backlog.md) para ver o backlog.
+- 🚀 Cronograma de Evolução do Projeto: [**Clique aqui**](./docs/Cronograma.md) para ver o cronograma.
+- 📆 Tabela Descritiva das Sprints: [**Clique aqui**](./docs/Sprints.md) para saber mais das nossas sprints.
+- 💻 Tecnologias Utilizadas: [**Clique aqui**](./docs/TECHNOLOGIES.md) para cohecer as tecnologias do projeto. 
+- 🏗️ Estrutura do Projeto: [**Clique aqui**](./docs/STRUCTURE.md) para ver a estrutura do projeto.
+- 🛠️ Como executar, usar e testar o projeto: [**Clique aqui**](./docs/HOW_TO_USE.md) para saber como usar nosso projeto. 
+- 👥 Equipe: [**Clique aqui**](./docs/TEAM.md) para conhecer a nossa equipe.
 
 <br>
-
-## 🎯 Desafio do Projeto
-
-O desafio consiste em desenvolver um **Sistema de Abertura de Chamados** nas plataformas **desktop, mobile e web**, integrado com **Inteligência Artificial gratuita**.  O sistema deve permitir que os usuários abram, acompanhem e encerrem chamados de forma simples, além de oferecer suporte automatizado através de IA.  
-
-Esse projeto busca **otimizar o atendimento interno** de empresas, **reduzir tempo de resposta** e **centralizar a comunicação** entre equipe e cliente.
-
-<br>
-
-## 🏃‍ Definition of Ready (DoR)
-A DoR define quando uma User Story ou tarefa está **pronta para ser iniciada**, garantindo que todos os requisitos, designs e informações necessárias estejam claros para o time começar a implementação.
-
-- User Stories com Critérios de Aceitação definidos  
-- Subtarefas divididas a partir das User Stories  
-- Design de telas no Figma ou protótipo equivalente  
-- Modelagem do Banco de Dados atualizada  
-- Diagrama de rotas da aplicação  
-- Base de dados do cliente configurada ou vetorizada  
-
-<br>
-
-## 🏆 Definition of Done (DoD)
-A DoD define os critérios que uma User Story ou tarefa **precisa cumprir para ser considerada concluída**, incluindo código funcional, documentação, testes e validação do sistema.
-
-- Manual do Usuário  
-- Manual da Aplicação  
-- Documentação da API (Endpoints, parâmetros e exemplos)  
-- Código completo e funcional  
-- Vídeos de cada etapa de entrega  
-- Testes unitários e de integração realizados  
-- Funcionalidade validada e integrada ao sistema (Frontend, Backend e Mobile)
-
-<br>
-
-
-
-## 📋 Backlog do Produto
-
-| Rank | Prioridade | User Story                               | Sprint | Entrega Resumida                 |
-|------|------------|-----------------------------------------|--------|---------------------------------|
-| 1    | Alta       | Abrir chamado no sistema                 | 1      | Tela de abertura de chamados    |
-| 2    | Alta       | Visualizar lista de chamados             | 2      | Listagem de chamados            |
-| 3    | Média      | Editar ou atualizar um chamado existente| 3      | Edição de chamados              |
-| 4    | Média      | Gerar relatório de chamados              | 4      | Relatórios e exportação         |
-| 5    | Baixa      | Integração com IA                        | 5      | Integração com IA               |
-
-<br>
-
-## 🚀 Evolução do Projeto
-
-| Sprint | Período       | Evolução (progresso)       | Entrega (Resumo)                  |
-|--------|---------------|----------------------------|----------------------------------|
-| 1      | 01/09 - 15/09 | ███░░░░░░░░ 30%           | Tela de abertura de chamados     |
-| 2      | 16/09 - 30/09 | █░░░░░░░░░░ 10%           | Listagem de chamados             |
-| 3      | 01/10 - 15/10 | ██░░░░░░░░░ 20%           | Edição de chamados               |
-| 4      | 16/10 - 31/10 | █░░░░░░░░░░ 10%           | Relatórios e exportação          |
-| 5      | 01/11 - 15/11 | ██░░░░░░░░░ 20%           | Integração com IA                |
-
-<br>
-
-## 📆 Sprints Detalhadas
-
-| Sprint | Período da Sprint | Resumo da Sprint                                | Link Vídeo        | Link Documentação   |
-|--------|-----------------|------------------------------------------------|-----------------|------------------|
-| 1      | 01/09 - 15/09    | Tela de abertura de chamados e backend básico | [Vídeo Sprint 1](#) | [Doc Sprint 1](#) |
-| 2      | 16/09 - 30/09    | Tela de listagem de chamados e filtros por status | [Vídeo Sprint 2](#) | [Doc Sprint 2](#) |
-| 3      | 01/10 - 15/10    | Funcionalidade de edição e atualização de chamados | [Vídeo Sprint 3](#) | [Doc Sprint 3](#) |
-| 4      | 16/10 - 31/10    | Relatórios básicos e exportação em PDF/Excel  | [Vídeo Sprint 4](#) | [Doc Sprint 4](#) |
-| 5      | 01/11 - 15/11    | Integração com IA e sugestões automáticas     | [Vídeo Sprint 5](#) | [Doc Sprint 5](#) |
- 
-<br>
-
-## 💻 Tecnologias Utilizadas  
-
-<br>
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white) ![Astah](https://img.shields.io/badge/Astah-3776AB?style=for-the-badge&logo=astah&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-3776AB?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 <br>
 
