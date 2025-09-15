@@ -12,6 +12,19 @@
 
 </div>
 
+## 📄 Documentação do Projeto
+
+Navegue pelas seções abaixo para conhecer todos os detalhes do projeto.
+
+- [**🎯 Descrição do Desafio**](./docs/Desafio_do_Projeto.md)
+- [**📋 Backlog de Produto**](./docs/PRODUCT_BACKLOG.md)
+- [**🚀 Cronograma de Evolução do Projeto**](./docs/TIMELINE.md)
+- [**📆 Tabela Descritiva das Sprints**](./docs/SPRINTS.md)
+- [**💻 Tecnologias Utilizadas**](./docs/TECHNOLOGIES.md)
+- [**🏗️ Estrutura do Projeto**](./docs/STRUCTURE.md)
+- [**🛠️ Como executar, usar e testar o projeto**](./docs/HOW_TO_USE.md)
+- [**👥 Equipe**](./docs/TEAM.md)
+
 <br>
 
 ## 🎯 Desafio do Projeto
