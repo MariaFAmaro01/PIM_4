@@ -14,7 +14,7 @@
 
 Navegue pelas seções abaixo para conhecer todos os detalhes do projeto.
 
-- 🎯 Descrição do Desafio: [**Clique aqui**](./docs/Desafio_do_Projeto.md) para ver com detalhes.
+- 🎯 ***Descrição do Desafio***: [**Clique aqui**](./docs/Desafio_do_Projeto.md) para ver com detalhes.
 - 📋 Backlog de Produto: [**Clique aqui**](./docs/Backlog.md) para ver o backlog.
 - 🚀 Cronograma de Evolução do Projeto: [**Clique aqui**](./docs/Cronograma.md) para ver o cronograma.
 - 📆 Tabela Descritiva das Sprints: [**Clique aqui**](./docs/Sprints.md) para saber mais das nossas sprints.
