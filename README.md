@@ -8,9 +8,7 @@
   <br>
   *Status do Projeto: 🚧 Em Desenvolvimento*
 
-
 <br>
-
 
 Navegue pelas seções abaixo para conhecer todos os detalhes do projeto.
 
